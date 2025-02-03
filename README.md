@@ -1,75 +1,73 @@
-# Hi, I'm Raj Jaiswal 👋
+<h1 align="center">Hi 👋, I'm Raj Jaiswal</h1>
+<h3 align="center">🚀 Full Stack Developer | Competitive Programmer | MERN Stack Enthusiast</h3>
 
-**Backend Developer | Open Source Enthusiast | Problem Solver**
-
-Welcome to my GitHub profile! I'm currently pursuing a Bachelor's in Computer Science and Engineering at RCC Institute of Information Technology and passionate about creating efficient, scalable, and user-friendly applications.  
-
-You can reach me via:
-- **Email**: [rajaiswaldev24@gmail.com](mailto:rajaiswaldev24@gmail.com)
-- **LinkedIn**: [Raj Jaiswal](https://www.linkedin.com/in/raj-jaiswal-37259922a/)
-- **GitHub**: [rajaiswal6544](https://github.com/rajaiswal6544)
-
----
-
-## 🚀 Skills & Technologies
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajaiswal6544&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://linkedin.com/in/raj-jaiswal-37259922a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://rajjaiswal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230E75B6.svg?style=flat-square" alt="Portfolio" /></a>
+  <a href="mailto:rajaiswaldev24@gmail.com"><img src="https://img.shields.io/badge/Email-%230E75B6.svg?style=flat-square" alt="Email" /></a>
+</p>
 
 ---
 
-## 🛠️ Projects
-
-### [Udyog Sarathi](https://udyog-saarthi-hosting.vercel.app/)
-**Tech Stack**: Node.js, Express.js, MongoDB, React.js  
-- Developed a job support system for Persons with Disabilities (PWD) with JWT authentication and accessibility features.
-
-### [Bloggo](https://github.com/rajaiswal6544/BlogBackend)
-**Tech Stack**: Node.js, Express.js, EJS  
-- Built an intermediate backend system for a blogging platform with JWT authentication and dynamic comments.
-
-### [John-Doe Portfolio](https://john-doe-next-js.vercel.app/)
-**Tech Stack**: React.js, Tailwind CSS  
-- Created a dynamic portfolio with immersive design and an enhanced user skills section.
-
-### [Peer-to-Peer Video](https://github.com/rajaiswal6544/PeertoPeervideo)
-**Tech Stack**: Node.js, Express.js, React.js, Socket.io  
-- Implemented real-time video streaming with socket connections and server-side room management.
+<h2 align="center">🏆 Competitive Programming</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/raj6290?ext=contest" alt="LeetCode Stats" width="45%"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=noobcoder2311" alt="Codeforces Stats" width="45%"/>
+</p>
+<ul align="center">
+  <li>🔥 <strong>LeetCode Rating:</strong> 1976 (Biweekly 138)</li>
+  <li>🌟 <strong>Codeforces Specialist</strong> (Rating: 1425)</li>
+  <li>🏅 Solved 350+ DSA Problems on LeetCode</li>
+</ul>
 
 ---
 
-## 🌟 Achievements
-- **Smart Bengal Hackathon 2024 Finalist** (Team: Hexacoders)  
-- Solved over **300+ problems** on [Leetcode](https://leetcode.com/u/raj6290/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/rajaiswal62/)
-- Certified **Software Development Trainee** through AMCAT
+<h3 align="center">💼 Professional Highlights</h3>
+<ul>
+  <li>💪 Finalist in Smart Bengal Hackathon (Team: Hexacoders)</li>
+  <li>🏆 Secured Rank 1891 in Codeforces Round 985</li>
+</ul>
 
 ---
 
-## 📈 GitHub Stats
-
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajaiswal6544&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaiswal6544&layout=compact)](https://github.com/rajaiswal6544/github-readme-stats)
+<h3 align="center">🚀 Skills & Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+</p>
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-jaiswal-37259922a/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajaiswal6544)
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajaiswal6544&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajaiswal6544&theme=tokyonight" alt="GitHub Streak" width="45%"/>
+</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaiswal6544&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/raj-jaiswal-37259922a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.codechef.com/users/rajaiswal62" target="blank"><img src="https://img.shields.io/badge/CodeChef-orange?logo=codechef&logoColor=white&style=for-the-badge" alt="CodeChef" /></a>
+  <a href="https://leetcode.com/u/raj6290" target="blank"><img src="https://img.shields.io/badge/LeetCode-gray?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/noobcoder2311" target="blank"><img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces" /></a>
+</p>
+
+---
+
+<h3 align="center">🐍 Snake Animation</h3>
+<p align="center">
+  <img src="https://github.com/rajaiswal6544/rajaiswal6544/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
+  <img src="https://github.com/rajaiswal6544/rajaiswal6544/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
+</p>
